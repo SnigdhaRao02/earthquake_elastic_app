@@ -1,8 +1,8 @@
 {
     "elastic":{
-        "cloudID":"9377e51be4974939949ecfef85566af1:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyQ5YTc0ZGZlMmM0MWY0Y2FkYjk5NGNiYzliY2FjZGQwMiQ4ODVjZjllOGYwYjI0MTI1YmRlMWIyMmYzZTI2MDVmMg==",
+        "cloudID":YOUR_CLOUD_ID,
         "username":"elastic",
-        "password":"iMU0Q5Kxu1zRPXVBEO8NHTT0",
-        "apiKey":"aW1sb0NwRUJuSVk1SDZIUTh2WUo6QXBpTjZMajFTTzZDQUhYTGJZWTBxdw=="
+        "password":YOUR_PASS,
+        "apiKey":API_KEY
     }
 }
