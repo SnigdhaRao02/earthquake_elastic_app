@@ -1,0 +1,1 @@
+This project leverages Elasticsearch and Kibana to deliver real-time data exploration and visualization of earthquake events. Users can filter earthquakes by type, magnitude, location, and date range, and sort the results by magnitude for search.
