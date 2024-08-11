@@ -4,5 +4,6 @@ This project leverages Elasticsearch and Kibana to deliver real-time data explor
 
 ![image](https://github.com/user-attachments/assets/7b2b2505-2fbb-48ad-8894-ddbedac70f55)
 
+# Kibana Dashboard
 ![image](https://github.com/user-attachments/assets/feb88612-eae0-4d88-814d-487a572df11c)
 
